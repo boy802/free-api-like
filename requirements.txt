@@ -9,3 +9,6 @@ cachetools
 waitress
 python-dotenv
 gunicorn
+python-telegram-bot==20.3
+APScheduler==3.10.4
+pytz
